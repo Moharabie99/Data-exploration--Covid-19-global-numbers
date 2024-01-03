@@ -1,6 +1,29 @@
-This project aims to explore the data collected globally for the covid-19 panademic, and shines the light on various aspects such as:
+# COVID-19 Data Analysis Project
 
-The number of cases per each country and how fatal it was for that country.
-The number of vaccinated people per country and wether that number increased or stagneated over the last three years.
-The number of infected pouplation per country.
-How effictive the measures that was done by countries to reduce the spread Covid-19 over the last 3 years.
+This project analyzes COVID-19 data from the years 2020 to 2023, focusing on various aspects such as total cases, deaths, population percentages, vaccination rates, and more. The goal is to gain insights into the impact of the pandemic on different regions and countries.
+
+## SQL Queries
+
+The SQL queries used in this project cover a range of analyses, including:
+
+- Overview of COVID-19 data by continent
+- Total cases, deaths, and population statistics
+- Death percentage in specific countries
+- Percentage of population infected
+- Countries with the highest infection rates and death counts
+- Continent-wise analysis
+- Global statistics and death percentage
+- Vaccination data and its impact on the population
+
+Feel free to explore the queries to gain a deeper understanding of the project's data exploration.
+
+## Views and Visualizations
+
+This project also creates views to store data for later visualizations, including:
+
+- Percentage of vaccinated population per country
+- Vaccinated population for each country
+- Deaths counts for continents
+- Countries with the highest infection rate
+- Percentage of infection in comparison with the population
+- Countries with the highest death rates
